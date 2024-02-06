@@ -1,4 +1,3 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTc0bmJzenZ5c3hkcjFuNTNkdDNvYXE3cHB1N2Z4ZDh3cXUzdzlqMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Gayatri Dipak Dabhade</h1>
 <h3 align="center">Student at Walchand College of Engineering .</h3>
